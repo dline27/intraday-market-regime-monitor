@@ -18,9 +18,17 @@ The goal is to reduce bias and improve expectation-setting (continuation vs rang
 ## Dashboard (current prototype)
 Screenshots:
 
-![Overview](assets/assets-overview.png)
-![Live Assist](assets/assets-live assist.png)
-![Playbook](assets/assets-playbook.png)
+## Dashboard (current prototype)
+
+### Overview
+![Overview](assets/overview.png)
+
+### Live Assist
+![Live Assist](assets/live_assist.png)
+
+### Playbook
+![Playbook](assets/playbook.png)
+
 
 
 ## How it works (high level)
