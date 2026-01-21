@@ -18,8 +18,10 @@ The goal is to reduce bias and improve expectation-setting (continuation vs rang
 ## Dashboard (current prototype)
 Screenshots:
 
-![Overview](assets-overview)
-![Live Assist](assets-live_assist.png)
+![Overview](assets/assets-overview.png)
+![Live Assist](assets/assets-live assist.png)
+![Playbook](assets/assets-playbook.png)
+
 
 ## How it works (high level)
 1. Build session reference levels from a fixed time window
