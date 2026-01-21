@@ -18,7 +18,7 @@ The goal is to reduce bias and improve expectation-setting (continuation vs rang
 ## Dashboard (current prototype)
 Screenshots:
 
-![Overview](assets-overview.png)
+![Overview](assets-overview)
 ![Live Assist](assets-live_assist.png)
 
 ## How it works (high level)
